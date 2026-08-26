@@ -1,0 +1,29 @@
+{
+  "name": "nordavind",
+  "displayName": "Nordavind",
+  "description": "Dark theme inspired by the Nord color palette.",
+  "repository": "https://github.com/yukina3230/nordavind",
+  "publisher": "Yukina",
+  "license": "GPL-3.0-only",
+  "version": "1.0.0",
+  "icon": "assets/icon.png",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "galleryBanner": {
+    "color": "#292e39",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordavind",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nordavind-color-theme.json"
+      }
+    ]
+  }
+}
