@@ -2,7 +2,7 @@ VSCode dark theme inspired by the [Nord](https://www.nordtheme.com/) color palet
 
 ## **VSCode**
 
-Available on [open-vsx.org](https://open-vsx.org/extension/Yukina/nordavind).
+Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=yukina.nordavind) and [Open VSX](https://open-vsx.org/extension/Yukina/nordavind).
 
 ![""](https://raw.githubusercontent.com/yukina3230/nordavind/main/assets/preview.png)
 
