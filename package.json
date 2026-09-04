@@ -5,7 +5,7 @@
   "repository": "https://github.com/yukina3230/nordavind",
   "publisher": "Yukina",
   "license": "GPL-3.0-only",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.100.0"
