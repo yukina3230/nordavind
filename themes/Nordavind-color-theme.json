@@ -107,6 +107,7 @@
     "chat.requestCodeBorder": "default",
     "chat.slashCommandBackground": "default",
     "chat.slashCommandForeground": "default",
+    "chat.statusBackground": "default",
     "chat.thinkingShimmer": "default",
     "chat.voiceGlowBaseColor": "default",
     "chat.voiceListeningGlow": "default",
